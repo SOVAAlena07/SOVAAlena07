@@ -74,7 +74,8 @@
 
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](file:///C:/Users/Asus/Desktop/Midle%20(2).png)
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Курс">](https://raw.githubusercontent.com/SOVAAlena07/SOVAAlena07/refs/heads/main/Junior%20(2).png)
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Курс">](https://raw.githubusercontent.com/SOVAAlena07/SOVAAlena07/refs/heads/main/Midle%20(2).png)
 
 <br>
 <br>
